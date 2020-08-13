@@ -221,17 +221,25 @@ hr{
   }
   .graphic{
     float: none;
-  }  .web{
+  }  
+  .web{
       float: none;
-    }  .hwc{
+    }  
+  .hwc{
         float: none;
-      }  .isp{
-          float: none;
-        }  .nw{
+      }  
+  .isp{
+      float: none;
+        }  
+  .nw{
+       float: none;
+          }  
+  .freelancer{
             float: none;
-          }  .freelancer{
-              float: none;
             }
+  .me{
+    float: none;
+  }
 .skill-row{
     text-align: center;
   }
