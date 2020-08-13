@@ -30,7 +30,7 @@ a:hover{
 
 h1{
   font-family: 'Sacramento', cursive;
-  font-size: 6.25rem;
+  font-size: 6.25vw;
   color: #66bfbf;
   margin: 0 auto 0 auto;
   line-height: normal;
@@ -43,6 +43,7 @@ p{
   position: absolute;
   top: 0px;
   left: 32.5rem;
+
 }
 .kalash{
   margin-top: 30px;
@@ -102,7 +103,7 @@ hr{
   line-height: 2;
 }
 .DK{
-  margin-top: 50px;
+    margin-top: 50px;
 }
 
 .skill-row{
@@ -196,4 +197,36 @@ hr{
 .copyright{
   font-size: 0.75rem;
   color: #EAF6F6;
+}
+@media screen and (max-width:800px)  {
+  .hi{
+
+
+    margin-top: 3rem;
+    left: 4.5rem;
+  }
+  .cloud-1{
+    left: 0.6rem;
+    top: 2rem;
+  }
+  .cloud-2{
+    left: 13.5rem;
+    top: 10rem;
+  }
+  .student{
+    font-size: 3vw;
+  }
+  .img{
+    float: none;
+  }
+  .skill-row{
+    text-align: center;
+  }
+  .work-row{
+    text-align: center;
+  }
+
+
+
+
 }
