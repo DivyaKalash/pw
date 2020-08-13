@@ -210,7 +210,7 @@ hr{
     top: 2rem;
   }
   .cloud-2{
-    left: 17.5rem;
+    left: 19.5rem;
     top: 10rem;
   }
   .student{
@@ -257,11 +257,11 @@ hr{
 
 .skill-row{
     text-align: center;
-    margin: 20px auto 35px auto;
+    margin: 30px auto 45px auto;
   }
   .work-row{
-    text-align: centre;
-    margin: 20px auto 35px auto;
+    text-align: center;
+    margin: 30px auto 45px auto;
 
   }
   .intro{
@@ -271,7 +271,7 @@ hr{
     font-size: 0.9rem;
   }
   h1{
-    font-size: 4rem;
+    font-size: 2rem;
   }
   h2{
     font-size: 2rem;
