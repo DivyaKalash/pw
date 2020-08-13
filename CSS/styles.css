@@ -203,14 +203,14 @@ hr{
 
 
     margin-top: 3rem;
-    left: 5.5rem;
+    left: 10rem;
   }
   .cloud-1{
     left: 0.6rem;
     top: 2rem;
   }
   .cloud-2{
-    left: 13.5rem;
+    left: 23.5rem;
     top: 10rem;
   }
   .student{
@@ -221,24 +221,30 @@ hr{
   }
   .graphic{
     float: none;
-  }  
+  }
   .web{
       float: none;
-    }  
-  .hwc{
+    }
+   .hwc{
         float: none;
-      }  
-  .isp{
-      float: none;
-        }  
-  .nw{
-       float: none;
-          }  
-  .freelancer{
+      }
+   .isp{
+          float: none;
+        }
+   .nw{
             float: none;
+          }
+   .freelancer{
+              float: none;
             }
-  .me{
-    float: none;
+    .me{
+        float: none;
+        text-align: left;
+        }
+.skill-row{
+    text-align: center;
   }
-
+  .work-row{
+    text-align: centre;
+  }
 }
