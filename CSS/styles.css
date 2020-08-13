@@ -276,4 +276,7 @@ hr{
   h2{
     font-size: 2rem;
   }
+  a{
+    margin: 20px 10px;
+  }
 }
