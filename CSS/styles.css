@@ -2,7 +2,7 @@ body{
 text-align: center;
 background-color:#e3fdfd;
 font-family: 'Merriweather', serif;
-font-size: 1.3vw;
+font-size: 1.3rem;
 color: #40514e;
 margin: 0;
 }
@@ -249,6 +249,12 @@ hr{
         max-width: 100%;
         height: auto;
         }
+        .DK{
+          margin-top: 20px auto 10px auto;
+          max-width: 100%;
+          
+        }
+
 .skill-row{
     text-align: center;
   }
