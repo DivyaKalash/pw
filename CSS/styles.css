@@ -203,21 +203,18 @@ hr{
 
 
     margin-top: 3rem;
-    left: 8rem;
+    left: 10rem;
   }
   .cloud-1{
     left: 0.6rem;
     top: 2rem;
   }
   .cloud-2{
-    left: 19.5rem;
+    left: 17.5rem;
     top: 10rem;
   }
   .student{
     font-size: 1rem;
-  }
-  .intro{
-    margin: 20px auto 20px auto;
   }
   .software{
     float: none;
@@ -260,10 +257,23 @@ hr{
 
 .skill-row{
     text-align: center;
-    margin: 20px auto 20px auto;
+    margin: 20px auto 35px auto;
   }
   .work-row{
     text-align: centre;
+    margin: 20px auto 35px auto;
+
+  }
+  .intro{
     margin: 20px auto 20px auto;
+  }
+  body{
+    font-size: 0.9rem;
+  }
+  h1{
+    font-size: 4rem;
+  }
+  h2{
+    font-size: 2rem;
   }
 }
