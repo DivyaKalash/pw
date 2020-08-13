@@ -239,7 +239,8 @@ hr{
             }
     .me{
         float: none;
-        text-align: left;
+      max-width: 100%;
+      height: auto
         }
 .skill-row{
     text-align: center;
