@@ -34,15 +34,16 @@ h1{
   color: #66bfbf;
   margin: 0 auto 0 auto;
   line-height: normal;
+  font-weight: bold;
 }
 p{
   line-height: 2;
 }
 .hi{
-  margin-top: 6.25rem;
+  margin-top: 6%;
   position: absolute;
   top: 0px;
-  left: 32.5rem;
+  left: 35%;
 
 }
 .kalash{
@@ -197,6 +198,7 @@ hr{
 .copyright{
   font-size: 0.75rem;
   color: #EAF6F6;
+  padding-top: 10px;
 }
 @media screen and (max-width:800px)  {
   .hi{
@@ -279,4 +281,18 @@ hr{
   a{
     margin: 20px 10px;
   }
+}
+ .bg{
+  background-color: #cbf1f5;
+  color: #66bfbf;
+}
+.navbar-brand{
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+}
+.nav{
+  color: #cbf1f5;
+}
+#title{
+  color: #cbf1f5;
 }
